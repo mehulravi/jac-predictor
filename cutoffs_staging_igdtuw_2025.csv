@@ -1,0 +1,291 @@
+university,branch_code,branch_name,year,round_number,category_code,quota_code,region_code,closing_rank,priority_note,source_page_ref
+IGDTUW,CSEAI,Computer Science and Engineering (Artificial Intelligence),2025,4,GEN,GENERAL,DELHI,39100,,IGDTUW_R4_2025_Delhi
+IGDTUW,CSE,Computer Science and Engineering,2025,4,GEN,GENERAL,DELHI,45659,,IGDTUW_R4_2025_Delhi
+IGDTUW,ECEAI,Electronics and Communication Engineering (Artificial Intelligence),2025,4,GEN,GENERAL,DELHI,67897,,IGDTUW_R4_2025_Delhi
+IGDTUW,ECE,Electronics and Communication Engineering,2025,4,GEN,GENERAL,DELHI,70912,,IGDTUW_R4_2025_Delhi
+IGDTUW,IT,Information Technology,2025,4,GEN,GENERAL,DELHI,58837,,IGDTUW_R4_2025_Delhi
+IGDTUW,AIML,Artificial Intelligence and Machine Learning,2025,4,GEN,GENERAL,DELHI,55305,,IGDTUW_R4_2025_Delhi
+IGDTUW,MAE,Mechanical and Automation Engineering,2025,4,GEN,GENERAL,DELHI,82767,,IGDTUW_R4_2025_Delhi
+IGDTUW,DMAM,Dual Degree B.Tech-MBA (Mechanical and Automation Engineering),2025,4,GEN,GENERAL,DELHI,88223,,IGDTUW_R4_2025_Delhi
+IGDTUW,MAC,Mathematics and Computing,2025,4,GEN,GENERAL,DELHI,63515,,IGDTUW_R4_2025_Delhi
+IGDTUW,BARCH,Bachelor of Architecture (Paper 2),2025,4,GEN,GENERAL,DELHI,2370,,IGDTUW_R4_2025_Delhi
+IGDTUW,CSEAI,Computer Science and Engineering (Artificial Intelligence),2025,4,GEN,DEFENCE_CW,DELHI,57247,VI,IGDTUW_R4_2025_Delhi
+IGDTUW,CSE,Computer Science and Engineering,2025,4,GEN,DEFENCE_CW,DELHI,83075,VI,IGDTUW_R4_2025_Delhi
+IGDTUW,ECEAI,Electronics and Communication Engineering (Artificial Intelligence),2025,4,GEN,DEFENCE_CW,DELHI,141971,VI,IGDTUW_R4_2025_Delhi
+IGDTUW,ECE,Electronics and Communication Engineering,2025,4,GEN,DEFENCE_CW,DELHI,122652,VI,IGDTUW_R4_2025_Delhi
+IGDTUW,IT,Information Technology,2025,4,GEN,DEFENCE_CW,DELHI,106260,VI,IGDTUW_R4_2025_Delhi
+IGDTUW,AIML,Artificial Intelligence and Machine Learning,2025,4,GEN,DEFENCE_CW,DELHI,106901,VI,IGDTUW_R4_2025_Delhi
+IGDTUW,MAE,Mechanical and Automation Engineering,2025,4,GEN,DEFENCE_CW,DELHI,188819,VI,IGDTUW_R4_2025_Delhi
+IGDTUW,DMAM,Dual Degree B.Tech-MBA (Mechanical and Automation Engineering),2025,4,GEN,DEFENCE_CW,DELHI,189095,VI,IGDTUW_R4_2025_Delhi
+IGDTUW,MAC,Mathematics and Computing,2025,4,GEN,DEFENCE_CW,DELHI,121378,VI,IGDTUW_R4_2025_Delhi
+IGDTUW,BARCH,Bachelor of Architecture (Paper 2),2025,4,GEN,DEFENCE_CW,DELHI,5547,VI,IGDTUW_R4_2025_Delhi
+IGDTUW,CSEAI,Computer Science and Engineering (Artificial Intelligence),2025,4,GEN,PWD,DELHI,433013,,IGDTUW_R4_2025_Delhi
+IGDTUW,CSE,Computer Science and Engineering,2025,4,GEN,PWD,DELHI,313995,,IGDTUW_R4_2025_Delhi
+IGDTUW,ECEAI,Electronics and Communication Engineering (Artificial Intelligence),2025,4,GEN,PWD,DELHI,1070615,,IGDTUW_R4_2025_Delhi
+IGDTUW,ECE,Electronics and Communication Engineering,2025,4,GEN,PWD,DELHI,918000,,IGDTUW_R4_2025_Delhi
+IGDTUW,IT,Information Technology,2025,4,GEN,PWD,DELHI,946450,,IGDTUW_R4_2025_Delhi
+IGDTUW,AIML,Artificial Intelligence and Machine Learning,2025,4,GEN,PWD,DELHI,518972,,IGDTUW_R4_2025_Delhi
+IGDTUW,MAC,Mathematics and Computing,2025,4,GEN,PWD,DELHI,758044,,IGDTUW_R4_2025_Delhi
+IGDTUW,BARCH,Bachelor of Architecture (Paper 2),2025,4,GEN,PWD,DELHI,5674,,IGDTUW_R4_2025_Delhi
+IGDTUW,CSEAI,Computer Science and Engineering (Artificial Intelligence),2025,4,SC,GENERAL,DELHI,392640,,IGDTUW_R4_2025_Delhi
+IGDTUW,CSE,Computer Science and Engineering,2025,4,SC,GENERAL,DELHI,369691,,IGDTUW_R4_2025_Delhi
+IGDTUW,ECEAI,Electronics and Communication Engineering (Artificial Intelligence),2025,4,SC,GENERAL,DELHI,615100,,IGDTUW_R4_2025_Delhi
+IGDTUW,ECE,Electronics and Communication Engineering,2025,4,SC,GENERAL,DELHI,584896,,IGDTUW_R4_2025_Delhi
+IGDTUW,IT,Information Technology,2025,4,SC,GENERAL,DELHI,494818,,IGDTUW_R4_2025_Delhi
+IGDTUW,AIML,Artificial Intelligence and Machine Learning,2025,4,SC,GENERAL,DELHI,458845,,IGDTUW_R4_2025_Delhi
+IGDTUW,MAE,Mechanical and Automation Engineering,2025,4,SC,GENERAL,DELHI,727646,,IGDTUW_R4_2025_Delhi
+IGDTUW,DMAM,Dual Degree B.Tech-MBA (Mechanical and Automation Engineering),2025,4,SC,GENERAL,DELHI,761432,,IGDTUW_R4_2025_Delhi
+IGDTUW,MAC,Mathematics and Computing,2025,4,SC,GENERAL,DELHI,563697,,IGDTUW_R4_2025_Delhi
+IGDTUW,BARCH,Bachelor of Architecture (Paper 2),2025,4,SC,GENERAL,DELHI,21414,,IGDTUW_R4_2025_Delhi
+IGDTUW,CSEAI,Computer Science and Engineering (Artificial Intelligence),2025,4,ST,GENERAL,DELHI,1183864,,IGDTUW_R4_2025_Delhi
+IGDTUW,CSE,Computer Science and Engineering,2025,4,ST,GENERAL,DELHI,969509,,IGDTUW_R4_2025_Delhi
+IGDTUW,BARCH,Bachelor of Architecture (Paper 2),2025,4,ST,GENERAL,DELHI,17580,,IGDTUW_R4_2025_Delhi
+IGDTUW,CSEAI,Computer Science and Engineering (Artificial Intelligence),2025,4,OBC,GENERAL,DELHI,184818,,IGDTUW_R4_2025_Delhi
+IGDTUW,CSE,Computer Science and Engineering,2025,4,OBC,GENERAL,DELHI,199828,,IGDTUW_R4_2025_Delhi
+IGDTUW,ECEAI,Electronics and Communication Engineering (Artificial Intelligence),2025,4,OBC,GENERAL,DELHI,317456,,IGDTUW_R4_2025_Delhi
+IGDTUW,ECE,Electronics and Communication Engineering,2025,4,OBC,GENERAL,DELHI,329695,,IGDTUW_R4_2025_Delhi
+IGDTUW,IT,Information Technology,2025,4,OBC,GENERAL,DELHI,259799,,IGDTUW_R4_2025_Delhi
+IGDTUW,AIML,Artificial Intelligence and Machine Learning,2025,4,OBC,GENERAL,DELHI,274831,,IGDTUW_R4_2025_Delhi
+IGDTUW,MAE,Mechanical and Automation Engineering,2025,4,OBC,GENERAL,DELHI,388011,,IGDTUW_R4_2025_Delhi
+IGDTUW,DMAM,Dual Degree B.Tech-MBA (Mechanical and Automation Engineering),2025,4,OBC,GENERAL,DELHI,428213,,IGDTUW_R4_2025_Delhi
+IGDTUW,MAC,Mathematics and Computing,2025,4,OBC,GENERAL,DELHI,305126,,IGDTUW_R4_2025_Delhi
+IGDTUW,BARCH,Bachelor of Architecture (Paper 2),2025,4,OBC,GENERAL,DELHI,17341,,IGDTUW_R4_2025_Delhi
+IGDTUW,CSEAI,Computer Science and Engineering (Artificial Intelligence),2025,4,OBC,DEFENCE_CW,DELHI,324939,VI,IGDTUW_R4_2025_Delhi
+IGDTUW,CSE,Computer Science and Engineering,2025,4,OBC,DEFENCE_CW,DELHI,371303,VI,IGDTUW_R4_2025_Delhi
+IGDTUW,ECEAI,Electronics and Communication Engineering (Artificial Intelligence),2025,4,OBC,DEFENCE_CW,DELHI,423703,VI,IGDTUW_R4_2025_Delhi
+IGDTUW,ECE,Electronics and Communication Engineering,2025,4,OBC,DEFENCE_CW,DELHI,448138,VI,IGDTUW_R4_2025_Delhi
+IGDTUW,IT,Information Technology,2025,4,OBC,DEFENCE_CW,DELHI,396019,VI,IGDTUW_R4_2025_Delhi
+IGDTUW,AIML,Artificial Intelligence and Machine Learning,2025,4,OBC,DEFENCE_CW,DELHI,377508,VI,IGDTUW_R4_2025_Delhi
+IGDTUW,MAE,Mechanical and Automation Engineering,2025,4,OBC,DEFENCE_CW,DELHI,491287,VI,IGDTUW_R4_2025_Delhi
+IGDTUW,MAC,Mathematics and Computing,2025,4,OBC,DEFENCE_CW,DELHI,479854,VI,IGDTUW_R4_2025_Delhi
+IGDTUW,CSEAI,Computer Science and Engineering (Artificial Intelligence),2025,4,EWS,GENERAL,DELHI,90813,,IGDTUW_R4_2025_Delhi
+IGDTUW,CSE,Computer Science and Engineering,2025,4,EWS,GENERAL,DELHI,117689,,IGDTUW_R4_2025_Delhi
+IGDTUW,ECEAI,Electronics and Communication Engineering (Artificial Intelligence),2025,4,EWS,GENERAL,DELHI,183883,,IGDTUW_R4_2025_Delhi
+IGDTUW,ECE,Electronics and Communication Engineering,2025,4,EWS,GENERAL,DELHI,178912,,IGDTUW_R4_2025_Delhi
+IGDTUW,IT,Information Technology,2025,4,EWS,GENERAL,DELHI,151085,,IGDTUW_R4_2025_Delhi
+IGDTUW,AIML,Artificial Intelligence and Machine Learning,2025,4,EWS,GENERAL,DELHI,135852,,IGDTUW_R4_2025_Delhi
+IGDTUW,MAE,Mechanical and Automation Engineering,2025,4,EWS,GENERAL,DELHI,230706,,IGDTUW_R4_2025_Delhi
+IGDTUW,DMAM,Dual Degree B.Tech-MBA (Mechanical and Automation Engineering),2025,4,EWS,GENERAL,DELHI,236219,,IGDTUW_R4_2025_Delhi
+IGDTUW,MAC,Mathematics and Computing,2025,4,EWS,GENERAL,DELHI,161353,,IGDTUW_R4_2025_Delhi
+IGDTUW,BARCH,Bachelor of Architecture (Paper 2),2025,4,EWS,GENERAL,DELHI,26840,,IGDTUW_R4_2025_Delhi
+IGDTUW,CSEAI,Computer Science and Engineering (Artificial Intelligence),2025,4,EWS,DEFENCE_CW,DELHI,305236,VI,IGDTUW_R4_2025_Delhi
+IGDTUW,CSE,Computer Science and Engineering,2025,4,EWS,DEFENCE_CW,DELHI,297111,VI,IGDTUW_R4_2025_Delhi
+IGDTUW,ECEAI,Electronics and Communication Engineering (Artificial Intelligence),2025,4,EWS,DEFENCE_CW,DELHI,556266,VI,IGDTUW_R4_2025_Delhi
+IGDTUW,AIML,Artificial Intelligence and Machine Learning,2025,4,EWS,DEFENCE_CW,DELHI,638944,VI,IGDTUW_R4_2025_Delhi
+IGDTUW,MAE,Mechanical and Automation Engineering,2025,4,EWS,DEFENCE_CW,DELHI,273427,VI,IGDTUW_R4_2025_Delhi
+IGDTUW,CSEAI,Computer Science and Engineering (Artificial Intelligence),2025,4,GEN,SIKKIM_GOA,,43094,,IGDTUW_R4_2025_Delhi
+IGDTUW,CSE,Computer Science and Engineering,2025,4,GEN,SIKKIM_GOA,,47534,,IGDTUW_R4_2025_Delhi
+IGDTUW,ECEAI,Electronics and Communication Engineering (Artificial Intelligence),2025,4,GEN,SIKKIM_GOA,,79024,,IGDTUW_R4_2025_Delhi
+IGDTUW,ECE,Electronics and Communication Engineering,2025,4,GEN,SIKKIM_GOA,,81599,,IGDTUW_R4_2025_Delhi
+IGDTUW,IT,Information Technology,2025,4,GEN,SIKKIM_GOA,,66195,,IGDTUW_R4_2025_Delhi
+IGDTUW,AIML,Artificial Intelligence and Machine Learning,2025,4,GEN,SIKKIM_GOA,,64133,,IGDTUW_R4_2025_Delhi
+IGDTUW,MAE,Mechanical and Automation Engineering,2025,4,GEN,SIKKIM_GOA,,100050,,IGDTUW_R4_2025_Delhi
+IGDTUW,DMAM,Dual Degree B.Tech-MBA (Mechanical and Automation Engineering),2025,4,GEN,SIKKIM_GOA,,116920,,IGDTUW_R4_2025_Delhi
+IGDTUW,MAC,Mathematics and Computing,2025,4,GEN,SIKKIM_GOA,,79298,,IGDTUW_R4_2025_Delhi
+IGDTUW,CSE,Computer Science and Engineering,2025,4,GEN,KASHMIRI_MIGRANT,,206575,,IGDTUW_R4_2025_Delhi
+IGDTUW,CSEAI,Computer Science and Engineering (Artificial Intelligence),2025,4,GEN,GENERAL,OUTSIDE_DELHI,19657,,IGDTUW_R4_2025_Outside
+IGDTUW,CSE,Computer Science and Engineering,2025,4,GEN,GENERAL,OUTSIDE_DELHI,17974,,IGDTUW_R4_2025_Outside
+IGDTUW,ECEAI,Electronics and Communication Engineering (Artificial Intelligence),2025,4,GEN,GENERAL,OUTSIDE_DELHI,24591,,IGDTUW_R4_2025_Outside
+IGDTUW,ECE,Electronics and Communication Engineering,2025,4,GEN,GENERAL,OUTSIDE_DELHI,23400,,IGDTUW_R4_2025_Outside
+IGDTUW,IT,Information Technology,2025,4,GEN,GENERAL,OUTSIDE_DELHI,22432,,IGDTUW_R4_2025_Outside
+IGDTUW,AIML,Artificial Intelligence and Machine Learning,2025,4,GEN,GENERAL,OUTSIDE_DELHI,21745,,IGDTUW_R4_2025_Outside
+IGDTUW,MAE,Mechanical and Automation Engineering,2025,4,GEN,GENERAL,OUTSIDE_DELHI,27044,,IGDTUW_R4_2025_Outside
+IGDTUW,DMAM,Dual Degree B.Tech-MBA (Mechanical and Automation Engineering),2025,4,GEN,GENERAL,OUTSIDE_DELHI,29448,,IGDTUW_R4_2025_Outside
+IGDTUW,MAC,Mathematics and Computing,2025,4,GEN,GENERAL,OUTSIDE_DELHI,23380,,IGDTUW_R4_2025_Outside
+IGDTUW,BARCH,Bachelor of Architecture (Paper 2),2025,4,GEN,GENERAL,OUTSIDE_DELHI,1014,,IGDTUW_R4_2025_Outside
+IGDTUW,CSEAI,Computer Science and Engineering (Artificial Intelligence),2025,4,GEN,DEFENCE_CW,OUTSIDE_DELHI,99379,IV,IGDTUW_R4_2025_Outside
+IGDTUW,CSE,Computer Science and Engineering,2025,4,GEN,DEFENCE_CW,OUTSIDE_DELHI,162681,IV,IGDTUW_R4_2025_Outside
+IGDTUW,ECEAI,Electronics and Communication Engineering (Artificial Intelligence),2025,4,GEN,DEFENCE_CW,OUTSIDE_DELHI,170117,V(vii),IGDTUW_R4_2025_Outside
+IGDTUW,BARCH,Bachelor of Architecture (Paper 2),2025,4,GEN,DEFENCE_CW,OUTSIDE_DELHI,5527,VI,IGDTUW_R4_2025_Outside
+IGDTUW,CSEAI,Computer Science and Engineering (Artificial Intelligence),2025,4,GEN,PWD,OUTSIDE_DELHI,156220,,IGDTUW_R4_2025_Outside
+IGDTUW,CSE,Computer Science and Engineering,2025,4,GEN,PWD,OUTSIDE_DELHI,130295,,IGDTUW_R4_2025_Outside
+IGDTUW,ECE,Electronics and Communication Engineering,2025,4,GEN,PWD,OUTSIDE_DELHI,263399,,IGDTUW_R4_2025_Outside
+IGDTUW,IT,Information Technology,2025,4,GEN,PWD,OUTSIDE_DELHI,183061,,IGDTUW_R4_2025_Outside
+IGDTUW,CSEAI,Computer Science and Engineering (Artificial Intelligence),2025,4,SC,GENERAL,OUTSIDE_DELHI,171001,,IGDTUW_R4_2025_Outside
+IGDTUW,CSE,Computer Science and Engineering,2025,4,SC,GENERAL,OUTSIDE_DELHI,159820,,IGDTUW_R4_2025_Outside
+IGDTUW,ECEAI,Electronics and Communication Engineering (Artificial Intelligence),2025,4,SC,GENERAL,OUTSIDE_DELHI,186518,,IGDTUW_R4_2025_Outside
+IGDTUW,ECE,Electronics and Communication Engineering,2025,4,SC,GENERAL,OUTSIDE_DELHI,178082,,IGDTUW_R4_2025_Outside
+IGDTUW,IT,Information Technology,2025,4,SC,GENERAL,OUTSIDE_DELHI,173161,,IGDTUW_R4_2025_Outside
+IGDTUW,AIML,Artificial Intelligence and Machine Learning,2025,4,SC,GENERAL,OUTSIDE_DELHI,181695,,IGDTUW_R4_2025_Outside
+IGDTUW,MAE,Mechanical and Automation Engineering,2025,4,SC,GENERAL,OUTSIDE_DELHI,189287,,IGDTUW_R4_2025_Outside
+IGDTUW,DMAM,Dual Degree B.Tech-MBA (Mechanical and Automation Engineering),2025,4,SC,GENERAL,OUTSIDE_DELHI,189612,,IGDTUW_R4_2025_Outside
+IGDTUW,MAC,Mathematics and Computing,2025,4,SC,GENERAL,OUTSIDE_DELHI,187743,,IGDTUW_R4_2025_Outside
+IGDTUW,IT,Information Technology,2025,4,SC,DEFENCE_CW,OUTSIDE_DELHI,181214,VI,IGDTUW_R4_2025_Outside
+IGDTUW,CSEAI,Computer Science and Engineering (Artificial Intelligence),2025,4,ST,GENERAL,OUTSIDE_DELHI,240177,,IGDTUW_R4_2025_Outside
+IGDTUW,CSE,Computer Science and Engineering,2025,4,ST,GENERAL,OUTSIDE_DELHI,183056,,IGDTUW_R4_2025_Outside
+IGDTUW,ECEAI,Electronics and Communication Engineering (Artificial Intelligence),2025,4,ST,GENERAL,OUTSIDE_DELHI,347061,,IGDTUW_R4_2025_Outside
+IGDTUW,ECE,Electronics and Communication Engineering,2025,4,ST,GENERAL,OUTSIDE_DELHI,335266,,IGDTUW_R4_2025_Outside
+IGDTUW,IT,Information Technology,2025,4,ST,GENERAL,OUTSIDE_DELHI,298847,,IGDTUW_R4_2025_Outside
+IGDTUW,AIML,Artificial Intelligence and Machine Learning,2025,4,ST,GENERAL,OUTSIDE_DELHI,301035,,IGDTUW_R4_2025_Outside
+IGDTUW,MAE,Mechanical and Automation Engineering,2025,4,ST,GENERAL,OUTSIDE_DELHI,363156,,IGDTUW_R4_2025_Outside
+IGDTUW,MAC,Mathematics and Computing,2025,4,ST,GENERAL,OUTSIDE_DELHI,356418,,IGDTUW_R4_2025_Outside
+IGDTUW,BARCH,Bachelor of Architecture (Paper 2),2025,4,ST,GENERAL,OUTSIDE_DELHI,3002,,IGDTUW_R4_2025_Outside
+IGDTUW,CSEAI,Computer Science and Engineering (Artificial Intelligence),2025,4,OBC,GENERAL,OUTSIDE_DELHI,41487,,IGDTUW_R4_2025_Outside
+IGDTUW,CSE,Computer Science and Engineering,2025,4,OBC,GENERAL,OUTSIDE_DELHI,40534,,IGDTUW_R4_2025_Outside
+IGDTUW,ECEAI,Electronics and Communication Engineering (Artificial Intelligence),2025,4,OBC,GENERAL,OUTSIDE_DELHI,51611,,IGDTUW_R4_2025_Outside
+IGDTUW,ECE,Electronics and Communication Engineering,2025,4,OBC,GENERAL,OUTSIDE_DELHI,50618,,IGDTUW_R4_2025_Outside
+IGDTUW,IT,Information Technology,2025,4,OBC,GENERAL,OUTSIDE_DELHI,48908,,IGDTUW_R4_2025_Outside
+IGDTUW,AIML,Artificial Intelligence and Machine Learning,2025,4,OBC,GENERAL,OUTSIDE_DELHI,48607,,IGDTUW_R4_2025_Outside
+IGDTUW,MAE,Mechanical and Automation Engineering,2025,4,OBC,GENERAL,OUTSIDE_DELHI,55610,,IGDTUW_R4_2025_Outside
+IGDTUW,DMAM,Dual Degree B.Tech-MBA (Mechanical and Automation Engineering),2025,4,OBC,GENERAL,OUTSIDE_DELHI,55961,,IGDTUW_R4_2025_Outside
+IGDTUW,MAC,Mathematics and Computing,2025,4,OBC,GENERAL,OUTSIDE_DELHI,50763,,IGDTUW_R4_2025_Outside
+IGDTUW,BARCH,Bachelor of Architecture (Paper 2),2025,4,OBC,GENERAL,OUTSIDE_DELHI,3120,,IGDTUW_R4_2025_Outside
+IGDTUW,CSEAI,Computer Science and Engineering (Artificial Intelligence),2025,4,OBC,DEFENCE_CW,OUTSIDE_DELHI,373417,IV,IGDTUW_R4_2025_Outside
+IGDTUW,IT,Information Technology,2025,4,OBC,DEFENCE_CW,OUTSIDE_DELHI,919670,V(x),IGDTUW_R4_2025_Outside
+IGDTUW,AIML,Artificial Intelligence and Machine Learning,2025,4,OBC,DEFENCE_CW,OUTSIDE_DELHI,56664,VI,IGDTUW_R4_2025_Outside
+IGDTUW,CSE,Computer Science and Engineering,2025,4,OBC,PWD,OUTSIDE_DELHI,877504,,IGDTUW_R4_2025_Outside
+IGDTUW,ECEAI,Electronics and Communication Engineering (Artificial Intelligence),2025,4,OBC,PWD,OUTSIDE_DELHI,696244,,IGDTUW_R4_2025_Outside
+IGDTUW,CSEAI,Computer Science and Engineering (Artificial Intelligence),2025,4,EWS,GENERAL,OUTSIDE_DELHI,29186,,IGDTUW_R4_2025_Outside
+IGDTUW,CSE,Computer Science and Engineering,2025,4,EWS,GENERAL,OUTSIDE_DELHI,26656,,IGDTUW_R4_2025_Outside
+IGDTUW,ECEAI,Electronics and Communication Engineering (Artificial Intelligence),2025,4,EWS,GENERAL,OUTSIDE_DELHI,36953,,IGDTUW_R4_2025_Outside
+IGDTUW,ECE,Electronics and Communication Engineering,2025,4,EWS,GENERAL,OUTSIDE_DELHI,32978,,IGDTUW_R4_2025_Outside
+IGDTUW,IT,Information Technology,2025,4,EWS,GENERAL,OUTSIDE_DELHI,30009,,IGDTUW_R4_2025_Outside
+IGDTUW,AIML,Artificial Intelligence and Machine Learning,2025,4,EWS,GENERAL,OUTSIDE_DELHI,30639,,IGDTUW_R4_2025_Outside
+IGDTUW,MAE,Mechanical and Automation Engineering,2025,4,EWS,GENERAL,OUTSIDE_DELHI,37700,,IGDTUW_R4_2025_Outside
+IGDTUW,MAC,Mathematics and Computing,2025,4,EWS,GENERAL,OUTSIDE_DELHI,31319,,IGDTUW_R4_2025_Outside
+IGDTUW,AIML,Artificial Intelligence and Machine Learning,2025,4,EWS,DEFENCE_CW,OUTSIDE_DELHI,116909,VI,IGDTUW_R4_2025_Outside
+IGDTUW,CSEAI,Computer Science and Engineering (Artificial Intelligence),2025,5,GEN,GENERAL,DELHI,44405,,IGDTUW_R5_2025_Delhi
+IGDTUW,CSE,Computer Science and Engineering,2025,5,GEN,GENERAL,DELHI,50687,,IGDTUW_R5_2025_Delhi
+IGDTUW,ECEAI,Electronics and Communication Engineering (Artificial Intelligence),2025,5,GEN,GENERAL,DELHI,75759,,IGDTUW_R5_2025_Delhi
+IGDTUW,ECE,Electronics and Communication Engineering,2025,5,GEN,GENERAL,DELHI,79574,,IGDTUW_R5_2025_Delhi
+IGDTUW,IT,Information Technology,2025,5,GEN,GENERAL,DELHI,64223,,IGDTUW_R5_2025_Delhi
+IGDTUW,AIML,Artificial Intelligence and Machine Learning,2025,5,GEN,GENERAL,DELHI,64133,,IGDTUW_R5_2025_Delhi
+IGDTUW,MAE,Mechanical and Automation Engineering,2025,5,GEN,GENERAL,DELHI,92818,,IGDTUW_R5_2025_Delhi
+IGDTUW,DMAM,Dual Degree B.Tech-MBA (Mechanical and Automation Engineering),2025,5,GEN,GENERAL,DELHI,94672,,IGDTUW_R5_2025_Delhi
+IGDTUW,MAC,Mathematics and Computing,2025,5,GEN,GENERAL,DELHI,69001,,IGDTUW_R5_2025_Delhi
+IGDTUW,BARCH,Bachelor of Architecture (Paper 2),2025,5,GEN,GENERAL,DELHI,2977,,IGDTUW_R5_2025_Delhi
+IGDTUW,CSEAI,Computer Science and Engineering (Artificial Intelligence),2025,5,GEN,DEFENCE_CW,DELHI,73137,VI,IGDTUW_R5_2025_Delhi
+IGDTUW,CSE,Computer Science and Engineering,2025,5,GEN,DEFENCE_CW,DELHI,103166,VI,IGDTUW_R5_2025_Delhi
+IGDTUW,ECEAI,Electronics and Communication Engineering (Artificial Intelligence),2025,5,GEN,DEFENCE_CW,DELHI,163090,VI,IGDTUW_R5_2025_Delhi
+IGDTUW,ECE,Electronics and Communication Engineering,2025,5,GEN,DEFENCE_CW,DELHI,141971,VI,IGDTUW_R5_2025_Delhi
+IGDTUW,IT,Information Technology,2025,5,GEN,DEFENCE_CW,DELHI,121378,VI,IGDTUW_R5_2025_Delhi
+IGDTUW,AIML,Artificial Intelligence and Machine Learning,2025,5,GEN,DEFENCE_CW,DELHI,106901,VI,IGDTUW_R5_2025_Delhi
+IGDTUW,MAE,Mechanical and Automation Engineering,2025,5,GEN,DEFENCE_CW,DELHI,188819,VI,IGDTUW_R5_2025_Delhi
+IGDTUW,DMAM,Dual Degree B.Tech-MBA (Mechanical and Automation Engineering),2025,5,GEN,DEFENCE_CW,DELHI,189095,VI,IGDTUW_R5_2025_Delhi
+IGDTUW,MAC,Mathematics and Computing,2025,5,GEN,DEFENCE_CW,DELHI,132749,VI,IGDTUW_R5_2025_Delhi
+IGDTUW,BARCH,Bachelor of Architecture (Paper 2),2025,5,GEN,DEFENCE_CW,DELHI,5547,VI,IGDTUW_R5_2025_Delhi
+IGDTUW,CSEAI,Computer Science and Engineering (Artificial Intelligence),2025,5,GEN,PWD,DELHI,433013,,IGDTUW_R5_2025_Delhi
+IGDTUW,CSE,Computer Science and Engineering,2025,5,GEN,PWD,DELHI,313995,,IGDTUW_R5_2025_Delhi
+IGDTUW,ECEAI,Electronics and Communication Engineering (Artificial Intelligence),2025,5,GEN,PWD,DELHI,1070615,,IGDTUW_R5_2025_Delhi
+IGDTUW,ECE,Electronics and Communication Engineering,2025,5,GEN,PWD,DELHI,1360126,,IGDTUW_R5_2025_Delhi
+IGDTUW,IT,Information Technology,2025,5,GEN,PWD,DELHI,946450,,IGDTUW_R5_2025_Delhi
+IGDTUW,AIML,Artificial Intelligence and Machine Learning,2025,5,GEN,PWD,DELHI,518972,,IGDTUW_R5_2025_Delhi
+IGDTUW,MAC,Mathematics and Computing,2025,5,GEN,PWD,DELHI,758044,,IGDTUW_R5_2025_Delhi
+IGDTUW,BARCH,Bachelor of Architecture (Paper 2),2025,5,GEN,PWD,DELHI,5674,,IGDTUW_R5_2025_Delhi
+IGDTUW,CSEAI,Computer Science and Engineering (Artificial Intelligence),2025,5,SC,GENERAL,DELHI,413693,,IGDTUW_R5_2025_Delhi
+IGDTUW,CSE,Computer Science and Engineering,2025,5,SC,GENERAL,DELHI,399917,,IGDTUW_R5_2025_Delhi
+IGDTUW,ECEAI,Electronics and Communication Engineering (Artificial Intelligence),2025,5,SC,GENERAL,DELHI,698598,,IGDTUW_R5_2025_Delhi
+IGDTUW,ECE,Electronics and Communication Engineering,2025,5,SC,GENERAL,DELHI,597563,,IGDTUW_R5_2025_Delhi
+IGDTUW,IT,Information Technology,2025,5,SC,GENERAL,DELHI,516592,,IGDTUW_R5_2025_Delhi
+IGDTUW,AIML,Artificial Intelligence and Machine Learning,2025,5,SC,GENERAL,DELHI,470209,,IGDTUW_R5_2025_Delhi
+IGDTUW,MAE,Mechanical and Automation Engineering,2025,5,SC,GENERAL,DELHI,820634,,IGDTUW_R5_2025_Delhi
+IGDTUW,DMAM,Dual Degree B.Tech-MBA (Mechanical and Automation Engineering),2025,5,SC,GENERAL,DELHI,856293,,IGDTUW_R5_2025_Delhi
+IGDTUW,MAC,Mathematics and Computing,2025,5,SC,GENERAL,DELHI,617454,,IGDTUW_R5_2025_Delhi
+IGDTUW,BARCH,Bachelor of Architecture (Paper 2),2025,5,SC,GENERAL,DELHI,21675,,IGDTUW_R5_2025_Delhi
+IGDTUW,CSEAI,Computer Science and Engineering (Artificial Intelligence),2025,5,ST,GENERAL,DELHI,1183864,,IGDTUW_R5_2025_Delhi
+IGDTUW,CSE,Computer Science and Engineering,2025,5,ST,GENERAL,DELHI,969509,,IGDTUW_R5_2025_Delhi
+IGDTUW,BARCH,Bachelor of Architecture (Paper 2),2025,5,ST,GENERAL,DELHI,17580,,IGDTUW_R5_2025_Delhi
+IGDTUW,CSEAI,Computer Science and Engineering (Artificial Intelligence),2025,5,OBC,GENERAL,DELHI,186225,,IGDTUW_R5_2025_Delhi
+IGDTUW,CSE,Computer Science and Engineering,2025,5,OBC,GENERAL,DELHI,204747,,IGDTUW_R5_2025_Delhi
+IGDTUW,ECEAI,Electronics and Communication Engineering (Artificial Intelligence),2025,5,OBC,GENERAL,DELHI,339542,,IGDTUW_R5_2025_Delhi
+IGDTUW,ECE,Electronics and Communication Engineering,2025,5,OBC,GENERAL,DELHI,346713,,IGDTUW_R5_2025_Delhi
+IGDTUW,IT,Information Technology,2025,5,OBC,GENERAL,DELHI,270817,,IGDTUW_R5_2025_Delhi
+IGDTUW,AIML,Artificial Intelligence and Machine Learning,2025,5,OBC,GENERAL,DELHI,280051,,IGDTUW_R5_2025_Delhi
+IGDTUW,MAE,Mechanical and Automation Engineering,2025,5,OBC,GENERAL,DELHI,425801,,IGDTUW_R5_2025_Delhi
+IGDTUW,DMAM,Dual Degree B.Tech-MBA (Mechanical and Automation Engineering),2025,5,OBC,GENERAL,DELHI,450146,,IGDTUW_R5_2025_Delhi
+IGDTUW,MAC,Mathematics and Computing,2025,5,OBC,GENERAL,DELHI,306445,,IGDTUW_R5_2025_Delhi
+IGDTUW,BARCH,Bachelor of Architecture (Paper 2),2025,5,OBC,GENERAL,DELHI,18619,,IGDTUW_R5_2025_Delhi
+IGDTUW,CSEAI,Computer Science and Engineering (Artificial Intelligence),2025,5,OBC,DEFENCE_CW,DELHI,324939,VI,IGDTUW_R5_2025_Delhi
+IGDTUW,CSE,Computer Science and Engineering,2025,5,OBC,DEFENCE_CW,DELHI,371303,VI,IGDTUW_R5_2025_Delhi
+IGDTUW,ECEAI,Electronics and Communication Engineering (Artificial Intelligence),2025,5,OBC,DEFENCE_CW,DELHI,423703,VI,IGDTUW_R5_2025_Delhi
+IGDTUW,ECE,Electronics and Communication Engineering,2025,5,OBC,DEFENCE_CW,DELHI,448138,VI,IGDTUW_R5_2025_Delhi
+IGDTUW,IT,Information Technology,2025,5,OBC,DEFENCE_CW,DELHI,396019,VI,IGDTUW_R5_2025_Delhi
+IGDTUW,AIML,Artificial Intelligence and Machine Learning,2025,5,OBC,DEFENCE_CW,DELHI,377508,VI,IGDTUW_R5_2025_Delhi
+IGDTUW,MAE,Mechanical and Automation Engineering,2025,5,OBC,DEFENCE_CW,DELHI,491287,VI,IGDTUW_R5_2025_Delhi
+IGDTUW,MAC,Mathematics and Computing,2025,5,OBC,DEFENCE_CW,DELHI,479854,VI,IGDTUW_R5_2025_Delhi
+IGDTUW,CSEAI,Computer Science and Engineering (Artificial Intelligence),2025,5,EWS,GENERAL,DELHI,90958,,IGDTUW_R5_2025_Delhi
+IGDTUW,CSE,Computer Science and Engineering,2025,5,EWS,GENERAL,DELHI,118163,,IGDTUW_R5_2025_Delhi
+IGDTUW,ECEAI,Electronics and Communication Engineering (Artificial Intelligence),2025,5,EWS,GENERAL,DELHI,183883,,IGDTUW_R5_2025_Delhi
+IGDTUW,ECE,Electronics and Communication Engineering,2025,5,EWS,GENERAL,DELHI,192517,,IGDTUW_R5_2025_Delhi
+IGDTUW,IT,Information Technology,2025,5,EWS,GENERAL,DELHI,151085,,IGDTUW_R5_2025_Delhi
+IGDTUW,AIML,Artificial Intelligence and Machine Learning,2025,5,EWS,GENERAL,DELHI,135852,,IGDTUW_R5_2025_Delhi
+IGDTUW,MAE,Mechanical and Automation Engineering,2025,5,EWS,GENERAL,DELHI,244309,,IGDTUW_R5_2025_Delhi
+IGDTUW,DMAM,Dual Degree B.Tech-MBA (Mechanical and Automation Engineering),2025,5,EWS,GENERAL,DELHI,245925,,IGDTUW_R5_2025_Delhi
+IGDTUW,MAC,Mathematics and Computing,2025,5,EWS,GENERAL,DELHI,163983,,IGDTUW_R5_2025_Delhi
+IGDTUW,BARCH,Bachelor of Architecture (Paper 2),2025,5,EWS,GENERAL,DELHI,18377,,IGDTUW_R5_2025_Delhi
+IGDTUW,CSEAI,Computer Science and Engineering (Artificial Intelligence),2025,5,EWS,DEFENCE_CW,DELHI,305236,VI,IGDTUW_R5_2025_Delhi
+IGDTUW,CSE,Computer Science and Engineering,2025,5,EWS,DEFENCE_CW,DELHI,297111,VI,IGDTUW_R5_2025_Delhi
+IGDTUW,ECEAI,Electronics and Communication Engineering (Artificial Intelligence),2025,5,EWS,DEFENCE_CW,DELHI,556266,VI,IGDTUW_R5_2025_Delhi
+IGDTUW,AIML,Artificial Intelligence and Machine Learning,2025,5,EWS,DEFENCE_CW,DELHI,638944,VI,IGDTUW_R5_2025_Delhi
+IGDTUW,MAE,Mechanical and Automation Engineering,2025,5,EWS,DEFENCE_CW,DELHI,273427,VI,IGDTUW_R5_2025_Delhi
+IGDTUW,CSEAI,Computer Science and Engineering (Artificial Intelligence),2025,5,GEN,SIKKIM_GOA,,47534,,IGDTUW_R5_2025_Delhi
+IGDTUW,CSE,Computer Science and Engineering,2025,5,GEN,SIKKIM_GOA,,56996,,IGDTUW_R5_2025_Delhi
+IGDTUW,ECEAI,Electronics and Communication Engineering (Artificial Intelligence),2025,5,GEN,SIKKIM_GOA,,80409,,IGDTUW_R5_2025_Delhi
+IGDTUW,ECE,Electronics and Communication Engineering,2025,5,GEN,SIKKIM_GOA,,87211,,IGDTUW_R5_2025_Delhi
+IGDTUW,IT,Information Technology,2025,5,GEN,SIKKIM_GOA,,66195,,IGDTUW_R5_2025_Delhi
+IGDTUW,AIML,Artificial Intelligence and Machine Learning,2025,5,GEN,SIKKIM_GOA,,75091,,IGDTUW_R5_2025_Delhi
+IGDTUW,MAE,Mechanical and Automation Engineering,2025,5,GEN,SIKKIM_GOA,,116920,,IGDTUW_R5_2025_Delhi
+IGDTUW,DMAM,Dual Degree B.Tech-MBA (Mechanical and Automation Engineering),2025,5,GEN,SIKKIM_GOA,,137809,,IGDTUW_R5_2025_Delhi
+IGDTUW,MAC,Mathematics and Computing,2025,5,GEN,SIKKIM_GOA,,79298,,IGDTUW_R5_2025_Delhi
+IGDTUW,CSE,Computer Science and Engineering,2025,5,GEN,KASHMIRI_MIGRANT,,206575,,IGDTUW_R5_2025_Delhi
+IGDTUW,CSEAI,Computer Science and Engineering (Artificial Intelligence),2025,5,GEN,GENERAL,OUTSIDE_DELHI,23158,,IGDTUW_R5_2025_Outside
+IGDTUW,CSE,Computer Science and Engineering,2025,5,GEN,GENERAL,OUTSIDE_DELHI,20667,,IGDTUW_R5_2025_Outside
+IGDTUW,ECEAI,Electronics and Communication Engineering (Artificial Intelligence),2025,5,GEN,GENERAL,OUTSIDE_DELHI,27368,,IGDTUW_R5_2025_Outside
+IGDTUW,ECE,Electronics and Communication Engineering,2025,5,GEN,GENERAL,OUTSIDE_DELHI,27449,,IGDTUW_R5_2025_Outside
+IGDTUW,IT,Information Technology,2025,5,GEN,GENERAL,OUTSIDE_DELHI,25486,,IGDTUW_R5_2025_Outside
+IGDTUW,AIML,Artificial Intelligence and Machine Learning,2025,5,GEN,GENERAL,OUTSIDE_DELHI,25326,,IGDTUW_R5_2025_Outside
+IGDTUW,MAE,Mechanical and Automation Engineering,2025,5,GEN,GENERAL,OUTSIDE_DELHI,30228,,IGDTUW_R5_2025_Outside
+IGDTUW,DMAM,Dual Degree B.Tech-MBA (Mechanical and Automation Engineering),2025,5,GEN,GENERAL,OUTSIDE_DELHI,31577,,IGDTUW_R5_2025_Outside
+IGDTUW,MAC,Mathematics and Computing,2025,5,GEN,GENERAL,OUTSIDE_DELHI,26176,,IGDTUW_R5_2025_Outside
+IGDTUW,BARCH,Bachelor of Architecture (Paper 2),2025,5,GEN,GENERAL,OUTSIDE_DELHI,1129,,IGDTUW_R5_2025_Outside
+IGDTUW,CSEAI,Computer Science and Engineering (Artificial Intelligence),2025,5,GEN,DEFENCE_CW,OUTSIDE_DELHI,99379,IV,IGDTUW_R5_2025_Outside
+IGDTUW,CSE,Computer Science and Engineering,2025,5,GEN,DEFENCE_CW,OUTSIDE_DELHI,162681,IV,IGDTUW_R5_2025_Outside
+IGDTUW,ECEAI,Electronics and Communication Engineering (Artificial Intelligence),2025,5,GEN,DEFENCE_CW,OUTSIDE_DELHI,170117,V(vii),IGDTUW_R5_2025_Outside
+IGDTUW,BARCH,Bachelor of Architecture (Paper 2),2025,5,GEN,DEFENCE_CW,OUTSIDE_DELHI,5527,VI,IGDTUW_R5_2025_Outside
+IGDTUW,CSEAI,Computer Science and Engineering (Artificial Intelligence),2025,5,GEN,PWD,OUTSIDE_DELHI,156220,,IGDTUW_R5_2025_Outside
+IGDTUW,CSE,Computer Science and Engineering,2025,5,GEN,PWD,OUTSIDE_DELHI,130295,,IGDTUW_R5_2025_Outside
+IGDTUW,ECE,Electronics and Communication Engineering,2025,5,GEN,PWD,OUTSIDE_DELHI,263399,,IGDTUW_R5_2025_Outside
+IGDTUW,IT,Information Technology,2025,5,GEN,PWD,OUTSIDE_DELHI,183061,,IGDTUW_R5_2025_Outside
+IGDTUW,CSEAI,Computer Science and Engineering (Artificial Intelligence),2025,5,SC,GENERAL,OUTSIDE_DELHI,171651,,IGDTUW_R5_2025_Outside
+IGDTUW,CSE,Computer Science and Engineering,2025,5,SC,GENERAL,OUTSIDE_DELHI,159820,,IGDTUW_R5_2025_Outside
+IGDTUW,ECEAI,Electronics and Communication Engineering (Artificial Intelligence),2025,5,SC,GENERAL,OUTSIDE_DELHI,190655,,IGDTUW_R5_2025_Outside
+IGDTUW,ECE,Electronics and Communication Engineering,2025,5,SC,GENERAL,OUTSIDE_DELHI,189771,,IGDTUW_R5_2025_Outside
+IGDTUW,IT,Information Technology,2025,5,SC,GENERAL,OUTSIDE_DELHI,181040,,IGDTUW_R5_2025_Outside
+IGDTUW,AIML,Artificial Intelligence and Machine Learning,2025,5,SC,GENERAL,OUTSIDE_DELHI,185443,,IGDTUW_R5_2025_Outside
+IGDTUW,MAE,Mechanical and Automation Engineering,2025,5,SC,GENERAL,OUTSIDE_DELHI,193338,,IGDTUW_R5_2025_Outside
+IGDTUW,DMAM,Dual Degree B.Tech-MBA (Mechanical and Automation Engineering),2025,5,SC,GENERAL,OUTSIDE_DELHI,206949,,IGDTUW_R5_2025_Outside
+IGDTUW,MAC,Mathematics and Computing,2025,5,SC,GENERAL,OUTSIDE_DELHI,190705,,IGDTUW_R5_2025_Outside
+IGDTUW,IT,Information Technology,2025,5,SC,DEFENCE_CW,OUTSIDE_DELHI,181214,VI,IGDTUW_R5_2025_Outside
+IGDTUW,CSEAI,Computer Science and Engineering (Artificial Intelligence),2025,5,ST,GENERAL,OUTSIDE_DELHI,240177,,IGDTUW_R5_2025_Outside
+IGDTUW,CSE,Computer Science and Engineering,2025,5,ST,GENERAL,OUTSIDE_DELHI,298847,,IGDTUW_R5_2025_Outside
+IGDTUW,ECEAI,Electronics and Communication Engineering (Artificial Intelligence),2025,5,ST,GENERAL,OUTSIDE_DELHI,362325,,IGDTUW_R5_2025_Outside
+IGDTUW,ECE,Electronics and Communication Engineering,2025,5,ST,GENERAL,OUTSIDE_DELHI,237746,,IGDTUW_R5_2025_Outside
+IGDTUW,IT,Information Technology,2025,5,ST,GENERAL,OUTSIDE_DELHI,339001,,IGDTUW_R5_2025_Outside
+IGDTUW,AIML,Artificial Intelligence and Machine Learning,2025,5,ST,GENERAL,OUTSIDE_DELHI,301035,,IGDTUW_R5_2025_Outside
+IGDTUW,MAE,Mechanical and Automation Engineering,2025,5,ST,GENERAL,OUTSIDE_DELHI,385313,,IGDTUW_R5_2025_Outside
+IGDTUW,MAC,Mathematics and Computing,2025,5,ST,GENERAL,OUTSIDE_DELHI,356418,,IGDTUW_R5_2025_Outside
+IGDTUW,BARCH,Bachelor of Architecture (Paper 2),2025,5,ST,GENERAL,OUTSIDE_DELHI,8691,,IGDTUW_R5_2025_Outside
+IGDTUW,CSEAI,Computer Science and Engineering (Artificial Intelligence),2025,5,OBC,GENERAL,OUTSIDE_DELHI,48607,,IGDTUW_R5_2025_Outside
+IGDTUW,CSE,Computer Science and Engineering,2025,5,OBC,GENERAL,OUTSIDE_DELHI,44123,,IGDTUW_R5_2025_Outside
+IGDTUW,ECEAI,Electronics and Communication Engineering (Artificial Intelligence),2025,5,OBC,GENERAL,OUTSIDE_DELHI,55626,,IGDTUW_R5_2025_Outside
+IGDTUW,ECE,Electronics and Communication Engineering,2025,5,OBC,GENERAL,OUTSIDE_DELHI,53744,,IGDTUW_R5_2025_Outside
+IGDTUW,IT,Information Technology,2025,5,OBC,GENERAL,OUTSIDE_DELHI,50746,,IGDTUW_R5_2025_Outside
+IGDTUW,AIML,Artificial Intelligence and Machine Learning,2025,5,OBC,GENERAL,OUTSIDE_DELHI,51611,,IGDTUW_R5_2025_Outside
+IGDTUW,MAE,Mechanical and Automation Engineering,2025,5,OBC,GENERAL,OUTSIDE_DELHI,59229,,IGDTUW_R5_2025_Outside
+IGDTUW,DMAM,Dual Degree B.Tech-MBA (Mechanical and Automation Engineering),2025,5,OBC,GENERAL,OUTSIDE_DELHI,57384,,IGDTUW_R5_2025_Outside
+IGDTUW,MAC,Mathematics and Computing,2025,5,OBC,GENERAL,OUTSIDE_DELHI,53447,,IGDTUW_R5_2025_Outside
+IGDTUW,BARCH,Bachelor of Architecture (Paper 2),2025,5,OBC,GENERAL,OUTSIDE_DELHI,3307,,IGDTUW_R5_2025_Outside
+IGDTUW,CSEAI,Computer Science and Engineering (Artificial Intelligence),2025,5,OBC,DEFENCE_CW,OUTSIDE_DELHI,373417,IV,IGDTUW_R5_2025_Outside
+IGDTUW,IT,Information Technology,2025,5,OBC,DEFENCE_CW,OUTSIDE_DELHI,919670,V(x),IGDTUW_R5_2025_Outside
+IGDTUW,AIML,Artificial Intelligence and Machine Learning,2025,5,OBC,DEFENCE_CW,OUTSIDE_DELHI,68346,VI,IGDTUW_R5_2025_Outside
+IGDTUW,CSE,Computer Science and Engineering,2025,5,OBC,PWD,OUTSIDE_DELHI,877504,,IGDTUW_R5_2025_Outside
+IGDTUW,ECEAI,Electronics and Communication Engineering (Artificial Intelligence),2025,5,OBC,PWD,OUTSIDE_DELHI,696244,,IGDTUW_R5_2025_Outside
+IGDTUW,CSEAI,Computer Science and Engineering (Artificial Intelligence),2025,5,EWS,GENERAL,OUTSIDE_DELHI,32454,,IGDTUW_R5_2025_Outside
+IGDTUW,CSE,Computer Science and Engineering,2025,5,EWS,GENERAL,OUTSIDE_DELHI,29387,,IGDTUW_R5_2025_Outside
+IGDTUW,ECEAI,Electronics and Communication Engineering (Artificial Intelligence),2025,5,EWS,GENERAL,OUTSIDE_DELHI,38849,,IGDTUW_R5_2025_Outside
+IGDTUW,ECE,Electronics and Communication Engineering,2025,5,EWS,GENERAL,OUTSIDE_DELHI,36953,,IGDTUW_R5_2025_Outside
+IGDTUW,IT,Information Technology,2025,5,EWS,GENERAL,OUTSIDE_DELHI,32978,,IGDTUW_R5_2025_Outside
+IGDTUW,AIML,Artificial Intelligence and Machine Learning,2025,5,EWS,GENERAL,OUTSIDE_DELHI,33019,,IGDTUW_R5_2025_Outside
+IGDTUW,MAE,Mechanical and Automation Engineering,2025,5,EWS,GENERAL,OUTSIDE_DELHI,40700,,IGDTUW_R5_2025_Outside
+IGDTUW,MAC,Mathematics and Computing,2025,5,EWS,GENERAL,OUTSIDE_DELHI,35532,,IGDTUW_R5_2025_Outside
+IGDTUW,AIML,Artificial Intelligence and Machine Learning,2025,5,EWS,DEFENCE_CW,OUTSIDE_DELHI,116909,VI,IGDTUW_R5_2025_Outside

@@ -1,0 +1,57 @@
+university,campus,branch_code,branch_name
+DTU,,BT,Bio-Technology
+DTU,,CE,Civil Engineering
+DTU,,CHE,Chemical Engineering
+DTU,,CSDS,Computer Science and Engineering (Data Science & Analytics)
+DTU,,CSE,Computer Science and Engineering
+DTU,,ECE,Electronics and Communication Engineering
+DTU,,EE,Electrical Engineering
+DTU,,ENE,Environmental Engineering
+DTU,,EP,Engineering Physics
+DTU,,EVDT,Electronics Engineering (VLSI Design and Technology)
+DTU,,IT,Information Technology
+DTU,,ITCS,Information Technology (Cyber Security)
+DTU,,MAM,Mechanical Engineering (Automotive Engineering)
+DTU,,MAM,Mechanical Engineering with specialization in Automotive Engineering
+DTU,,MCE,Mathematics and Computing
+DTU,,ME,Mechanical Engineering
+DTU,,PIE,Production & Industrial Engineering
+DTU,,SE,Software Engineering
+NSUT,,BT,Bio-Technology
+NSUT,,CSAI,Computer Science and Engineering (Artificial Intelligence)
+NSUT,,CSDS,Computer Science and Engineering (Data Science)
+NSUT,,CSE,Computer Science and Engineering
+NSUT,,ECE,Electronics and Communication Engineering
+NSUT,,EE,Electrical Engineering
+NSUT,,EVDT,Electronics Engineering (VLSI Design and Technology)
+NSUT,,ICE,Instrumentation and Control Engineering
+NSUT,,IT,Information Technology
+NSUT,,ITNS,Information Technology (Network and Information Security)
+NSUT,,MAC,Mathematics and Computing
+NSUT,,ME,Mechanical Engineering
+NSUT,East,CIOT,Computer Science and Engineering (Internet of Things)
+NSUT,East,CSDA,Computer Science and Engineering (Big Data Analytics)
+NSUT,East,ECAM,Electronics and Communication Engineering (AI and Machine Learning)
+NSUT,West,B.Arch.,Bachelor of Architecture
+NSUT,West,CE,Civil Engineering
+NSUT,West,GI,Geoinformatics
+NSUT,West,MEEV,Mechanical Engineering (Electric Vehicles)
+IGDTUW,,AIML,Artificial Intelligence and Machine Learning
+IGDTUW,,BARCH,Bachelor of Architecture (Paper 2)
+IGDTUW,,CSE,Computer Science and Engineering
+IGDTUW,,CSEAI,Computer Science and Engineering (Artificial Intelligence)
+IGDTUW,,DMAM,Dual Degree B.Tech-MBA (Mechanical and Automation Engineering)
+IGDTUW,,ECE,Electronics and Communication Engineering
+IGDTUW,,ECEAI,Electronics and Communication Engineering (Artificial Intelligence)
+IGDTUW,,IT,Information Technology
+IGDTUW,,MAC,Mathematics and Computing
+IGDTUW,,MAE,Mechanical and Automation Engineering
+IIITD,,CSAI,Computer Science and Artificial Intelligence
+IIITD,,CSAM,Computer Science and Applied Mathematics
+IIITD,,CSB,Computer Science and Biosciences
+IIITD,,CSD,Computer Science and Design
+IIITD,,CSE,Computer Science and Engineering
+IIITD,,CSEcon,Computer Science and Economics
+IIITD,,CSSS,Computer Science and Social Sciences
+IIITD,,ECE,Electronics and Communications Engineering
+IIITD,,EVE,Electronics and VLSI Engineering
